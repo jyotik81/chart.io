@@ -143,13 +143,13 @@ function buildMetadata(sample) {
     
 
     // Deliverable 3: 3. Create a variable that holds the washing frequency.
-    var washFreq = +metadata_SelId[0].washFreq;
+    var wfreq = firstsmp.wfreq;
 
     // Deliverable 3: 4. Create the trace for the gauge chart.
         var gaugeData = [
           {
             domain: { x: [0,1], y: [0,1]},
-            value: washFreq,
+            value: wfreq,
             title: { text: "<b>Belly Button Washing Frequency</b><br>Scrubs per week"},
             type: "indicator",
             mode: "gauge+number",
