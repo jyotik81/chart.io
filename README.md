@@ -9,7 +9,7 @@ Lab reports have shown that the bacteria can be found on the human body, specifi
 
 To help discover which test subjects have right amount of this bacteria, I have created an interactive dashboard. This customized dashboard allows a user a filter by individual test subject to see their demographic information and what bacterial cultures live in their navels. 
 
-Project Results -- 
+Project Results -- The interactive dashboard can be found here -- https://jyotik81.github.io/
 
 
 Project Summary :
