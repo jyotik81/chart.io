@@ -34,6 +34,7 @@ Project Summary :
 
 The interactive dashboard has a dropdown menu to filter test subjects. There are three charts to visualize test subjects demographic information and what bacterial cultures live in their navel. Hovering over the charts will also reveal more detailed information. 
 
-![image](https://user-images.githubusercontent.com/40743420/215329230-91d8d609-438c-42a8-877c-fbf44004b236.png)
+![image](https://user-images.githubusercontent.com/40743420/215343539-ebfa25d0-b8c2-48e7-963b-2ed6a680e931.png)
+
 
 
