@@ -141,7 +141,6 @@ function buildMetadata(sample) {
     // Deliverable 3: 2. Create a variable that holds the first sample in the metadata array.
     var firstsmp = metadata_SelId[0];
     
-
     // Deliverable 3: 3. Create a variable that holds the washing frequency.
     var wfreq = firstsmp.wfreq;
 
